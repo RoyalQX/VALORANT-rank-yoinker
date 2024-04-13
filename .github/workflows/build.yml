@@ -6,7 +6,6 @@ env:
 on:
   push:
     branches:
-      - 'main'
       - 'sorry-riot'
     
   pull_request:
